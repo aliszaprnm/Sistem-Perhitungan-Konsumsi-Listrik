@@ -1,0 +1,14 @@
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.exe
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.deps.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.runtimeconfig.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.runtimeconfig.dev.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.dll
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricCharge.pdb
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.csproj.AssemblyReference.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.AssemblyInfoInputs.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.AssemblyInfo.cs
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.csproj.CoreCompileInputs.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.dll
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.pdb
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricCharge.genruntimeconfig.cache

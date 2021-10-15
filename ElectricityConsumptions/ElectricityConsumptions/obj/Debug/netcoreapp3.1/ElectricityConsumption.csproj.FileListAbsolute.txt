@@ -1,0 +1,14 @@
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.exe
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.deps.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.runtimeconfig.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.runtimeconfig.dev.json
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.dll
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\bin\Debug\netcoreapp3.1\ElectricityConsumption.pdb
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.csproj.AssemblyReference.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.AssemblyInfoInputs.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.AssemblyInfo.cs
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.csproj.CoreCompileInputs.cache
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.dll
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.pdb
+C:\Users\nkhal\source\repos\ElectricCharge\ElectricCharge\obj\Debug\netcoreapp3.1\ElectricityConsumption.genruntimeconfig.cache
