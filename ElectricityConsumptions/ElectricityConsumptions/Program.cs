@@ -37,7 +37,7 @@ namespace ElectricityConsumption
                             Peralatan.RemovePeralatan(listPeralatan);
                             break;
                         case 5:
-                            Barang.KonsumsiListrik(listPeralatan);
+                            Hitung.KonsumsiListrik(listPeralatan);
                             break;
                         case 6:
                             exit = 1;

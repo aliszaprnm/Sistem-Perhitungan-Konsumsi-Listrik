@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nkhal\\source\\repos\\ElectricCharge\\ElectricCharge\\ElectricityConsumption.csproj",
+      "projectUniqueName": "C:\\Users\\nkhal\\source\\repos\\ElectricityConsumptions\\ElectricityConsumptions\\ElectricityConsumption.csproj",
       "projectName": "ElectricityConsumption",
-      "projectPath": "C:\\Users\\nkhal\\source\\repos\\ElectricCharge\\ElectricCharge\\ElectricityConsumption.csproj",
+      "projectPath": "C:\\Users\\nkhal\\source\\repos\\ElectricityConsumptions\\ElectricityConsumptions\\ElectricityConsumption.csproj",
       "packagesPath": "C:\\Users\\nkhal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nkhal\\source\\repos\\ElectricCharge\\ElectricCharge\\obj\\",
+      "outputPath": "C:\\Users\\nkhal\\source\\repos\\ElectricityConsumptions\\ElectricityConsumptions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nkhal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

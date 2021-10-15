@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ElectricityConsumption
 {
-    class Barang : Peralatan
+    class Hitung : Peralatan
     {
         public static void KonsumsiListrik(List<Peralatan> listPeralatan)
         {
